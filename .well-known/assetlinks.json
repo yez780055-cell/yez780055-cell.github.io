@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.littledays.app.twa.poc",
+      "sha256_cert_fingerprints": [
+        "24:EA:37:45:6D:2A:46:74:C3:E3:A5:28:8B:BC:46:D7:1B:08:37:C1:4D:57:9A:74:A9:65:7D:27:4F:82:1F:36"
+      ]
+    }
+  }
+]
